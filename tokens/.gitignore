@@ -60,3 +60,6 @@ instance/
 *.swo
 Thumbs.db
 
+
+*.txt
+*.json
